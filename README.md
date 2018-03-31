@@ -1,5 +1,5 @@
 ## Ringdroid fork with GUI tests
-This fork of the Google Ringdroid app contains [two Espresso cases]{https://github.com/DaanvanderValk/ringdroid/tree/master/app/src/androidTest/java/com/ringdroid}, to demonstrate Capture/replay testing. Visit the official repository of Ringdroid [here]{https://github.com/google/ringdroid}.
+This fork of the Google Ringdroid app contains [two Espresso cases](https://github.com/DaanvanderValk/ringdroid/tree/master/app/src/androidTest/java/com/ringdroid), to demonstrate Capture/replay testing. Visit the official repository of Ringdroid [here](https://github.com/google/ringdroid).
 
 
 
